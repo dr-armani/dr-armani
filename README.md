@@ -17,6 +17,6 @@ AI product leader and applied econometrician building production agentic systems
 
 ### Core Stack & Competencies
 
-* **AI & Data Science:** LLM/RAG pipelines, AI Agents, Python (LangChain, PyTorch), R, MATLAB, C#.NET, T-SQL, JavaScript, n8n. <!--[cite: 1, 2] -->
+* **AI & Data Science:** LLM/RAG pipelines, AI Agents, Python (LangChain, PyTorch), R, MATLAB, T-SQL, JavaScript, n8n. <!--[cite: 1, 2] -->
 * **Causal Inference & Econometrics:** Experimental design, Quasi-experimental design (DiD, RDD, IV, Synthetic Controls, SEM). <!--[cite: 1, 2] -->
 * **Product Leadership:** 0-to-1 Product Management, Technical Roadmaps, GTM, Growth Analytics, Team Leadership. <!--[cite: 1, 2] -->
