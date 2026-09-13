@@ -11,7 +11,7 @@ AI product leader and applied econometrician building production agentic systems
 * **[AI Arbitration Platform](https://github.com/just-bots/ai-arbitration-python)** — Multimodal RAG agent and text LLM pipeline for contract dispute determination; all open-sourced. <!--[cite: 1, 2] -->
 * **[PaperScore](https://paperscore.org/)** — Manuscript evaluation platform powered by custom LLM pipelines and automated scholarly metadata ingestion across 1,845 outlets. <!--[cite: 1, 2] -->
 * **[TeammateMe](https://teammateme.com/)** — Collaboration platform scaled through causal experimentation, A/B testing, and funnel optimization. <!--[cite: 1, 2] -->
-* **Better Governance: From Theories to Codes** — Book published by Springer Nature (2026) covering algorithmic governance and mechanisms. <!--[cite: 2] -->
+* **[Better Governance: From Theories to Codes](https://link.springer.com/book/9783032332257)** — Book published by Springer Nature (2026) covering algorithmic governance and mechanisms. <!--[cite: 2] -->
 
 ---
 
