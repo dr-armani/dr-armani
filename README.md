@@ -11,8 +11,8 @@ AI product leader and applied econometrician building production agentic systems
 * **[AI Arbitration Platform](https://github.com/just-bots/ai-arbitration-python)** — Multimodal RAG agent and text LLM pipeline for contract dispute determination; all open-sourced. 
 * **[PaperScore](https://paperscore.org/)** — Manuscript evaluation platform powered by custom LLM pipelines and automated scholarly metadata ingestion. 
 * **[TeammateMe](https://teammateme.com/)** — Collaboration platform scaled through causal experimentation, A/B testing, and funnel optimization. 
-* **[ParaLead](https://paralead.com/)** — Decentralized Autonomous Corporation using ERC20 tokens and bonding curves for algorithmic governance decisions.
-* **[Better Governance: From Theories to Codes](https://link.springer.com/book/9783032332257)** — Book published by Springer Nature (2026) covering algorithmic governance and mechanisms. 
+* **[ParaLead](https://paralead.com/)** — Decentralized Autonomous Corporation with ERC20 tokens and bonding curves for algorithmic governance.
+* **[Better Governance: From Theories to Codes](https://link.springer.com/book/9783032332257)** — Book published by Springer Nature (2026) covering algorithmic governance. 
 
 ---
 
