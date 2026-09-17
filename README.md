@@ -2,7 +2,7 @@
 **Principal Data Scientist & Applied Econometrician**<br> 
 San Francisco Bay Area | [LinkedIn](https://linkedin.com/in/dr-armani) | [Email](mailto:daniel.armani@paperscore.org) 
 
-AI product leader and applied econometrician building production agentic systems, multimodal RAG architectures, and causal experimentation frameworks. Experienced leading cross-functional technical teams from 0-to-1 launch to scale.
+AI product leader and applied econometrician building production agentic systems, multimodal RAG architectures, and online experimentation platforms. Experienced leading cross-functional technical teams from 0-to-1 launch to scale.
 
 ---
 
