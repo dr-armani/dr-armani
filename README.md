@@ -8,7 +8,7 @@ AI product leader and applied econometrician building production agentic systems
 
 ### Featured Systems & Architectures
 
-* **[AI Arbitration Platform](https://github.com/just-bots/ai-arbitration-python)** — Multimodal RAG agent and text LLM pipeline for contract dispute determination; all open-sourced. 
+* **[AI Arbitration Platform](https://github.com/just-bots/ai-arbitration-python)** — A multimodal RAG agent and an LLM pipeline for contract dispute determination; all open-sourced. 
 * **[PaperScore](https://paperscore.org/)** — Manuscript evaluation platform powered by custom LLM pipelines and automated scholarly metadata ingestion. 
 * **[TeammateMe](https://teammateme.com/)** — Collaboration platform scaled through causal experimentation, A/B testing, and funnel optimization. 
 * **[ParaLead](https://paralead.com/)** — Decentralized Autonomous Corporation with ERC20 tokens and bonding curves for algorithmic governance.
