@@ -1,8 +1,8 @@
 # Daniel Armani, PhD 
-**Principal Data Scientist**<br> 
+**Principal Data Scientist | AI Product Architect | Applied Econometrician**<br> 
 San Francisco Bay Area | [LinkedIn](https://linkedin.com/in/dr-armani) | [Email](mailto:daniel.armani@paperscore.org) 
 
-AI product architect and applied econometrician building production agentic systems, multimodal RAG pipelines, and online experimentation platforms. Experienced leading cross-functional technical teams from 0-to-1 launch to scale.
+Designing and building production AI agents, multimodal RAG pipelines, web3 products, and online experimentation platforms. Experienced leading cross-functional technical teams from 0-to-1 launch to scale. 
 
 ---
 
