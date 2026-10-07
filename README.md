@@ -18,6 +18,5 @@ Designing and building production AI agents, multimodal RAG pipelines, web3 prod
 
 ### Core Stack & Competencies
 
-* **AI & Data Science:** LLM/RAG pipelines, AI Agents, Python (LangChain, PyTorch), R, MATLAB, T-SQL, JavaScript, n8n. 
-* **Causal Inference & Econometrics:** Experimental design, Quasi-experimental design (DiD, RDD, IV, Synthetic Controls, SEM). 
-* **Product Leadership:** 0-to-1 Product Management, Technical Roadmaps, GTM, Growth Analytics, Team Leadership. 
+* **AI & Data Science:** LLM/RAG pipelines, AI Agents, Python, R, MATLAB, T-SQL, JavaScript, n8n. 
+* **Causal Inference & Econometrics:** Experimental design (RCTs, A/B Testing), Quasi-experimental methods (DiD, RDD, IV, PSM, Synthetic Controls). 
