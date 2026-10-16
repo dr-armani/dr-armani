@@ -13,7 +13,7 @@ Experienced leading cross-functional technical teams from 0-to-1 launch to scale
 * **[PaperScore](https://paperscore.org/)** — Manuscript evaluation platform powered by custom LLM pipelines and automated scholarly metadata ingestion. 
 * **[TeammateMe](https://teammateme.com/)** — Collaboration platform scaled through causal experimentation, A/B testing, and funnel optimization. 
 * **[ParaLead](https://paralead.com/)** — Decentralized Autonomous Corporation with ERC20 tokens and bonding curves for algorithmic governance.
-* **[Better Governance: From Theories to Codes](https://link.springer.com/book/9783032332257)** — Book published by Springer Nature (2026) covering algorithmic governance. 
+* **[Better Governance: From Theories to Codes](https://link.springer.com/book/9783032332257)** — Book published by Springer Nature (2026) proposing a Smart Constitution that enforces an automated governance system. 
 
 ---
 
